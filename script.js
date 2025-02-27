@@ -91,8 +91,7 @@ const documents = [
     { name: "NATIONAL PAINT PVA PRIMER - MSDS", file: "documents/NATIONAL PAINT PVA PRIMER.pdf" },
     { name: "NATIONAL PAINT TEXO COMPOUND - MSDS", file: "documents/NATIONAL PAINT TEXO COMPOUND.pdf" },
     { name: "Jotashield topcoat silk - MSDS", file: "documents/Jotashield topcoat silk.pdf" },
-    { name: "RISK ASSESSMENT - MSDS", file: "C:\Users\Admin\Downloads\RISK ASSESSMENT.pdf" }
-
+    { name: "RISK ASSESSMENT - MSDS", file: "C:/Users/Admin/Downloads/RISK ASSESSMENT.pdf" }
 ];
 
 documents.sort((a, b) => a.name.localeCompare(b.name));
