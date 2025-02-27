@@ -137,6 +137,6 @@ document.addEventListener("DOMContentLoaded", function () {
     // Add click event listener to the button
     chemicalQuantityBtn.addEventListener("click", function () {
         // Open "chemical_quantity.pdf" in a new tab
-        window.open("documents/CMHS CHEMICAL QUANTITY FEB 2025.pdf", "_blank");
+        window.open("documents/CMHS CHEMICAL QUANTITY.pdf", "_blank");
     });
 });
