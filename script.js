@@ -90,7 +90,10 @@ const documents = [
     { name: "National Paint Matt Emulsion - MSDS", file: "documents/National Paint Matt Emulsion.pdf" },
     { name: "NATIONAL PAINT PVA PRIMER - MSDS", file: "documents/NATIONAL PAINT PVA PRIMER.pdf" },
     { name: "NATIONAL PAINT TEXO COMPOUND - MSDS", file: "documents/NATIONAL PAINT TEXO COMPOUND.pdf" },
-    { name: "Jotashield topcoat silk - MSDS", file: "documents/Jotashield topcoat silk.pdf" }
+    { name: "Jotashield topcoat silk - MSDS", file: "documents/Jotashield topcoat silk.pdf" },
+    { name: "Weather Sealant - MSDS", file: "documents/weather sealant.pdf" },
+    { name: "HEMPEL Topaz Signature Luxury Matt - MSDS", file: "documents/HEMPEL Topaz Signature Luxury Matt.pdf" }
+    
     
 ];
 
