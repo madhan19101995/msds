@@ -95,7 +95,8 @@ const documents = [
     { name: "HEMPEL Topaz Signature Luxury Matt - MSDS", file: "documents/HEMPEL Topaz Signature Luxury Matt.pdf" },
     { name: "UN1133 ADHESIVE - MSDS", file: "documents/UN1133 ADHESIVE.pdf" },
     { name: "USG Sheetrock All purpose joint compound - MSDS", file: "documents/USG Sheetrock All purpose joint compound.pdf" },
-    { name: "Diesel_Fuel - MSDS", file: "documents/Diesel_Fuel.pdf" }
+    { name: "Diesel_Fuel - MSDS", file: "documents/Diesel_Fuel.pdf" },
+    { name: "PRIMER G - MSDS", file: "documents/PRIMER G.pdf" }
     
     
 ];
