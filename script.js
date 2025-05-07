@@ -97,8 +97,9 @@ const documents = [
     { name: "USG Sheetrock All purpose joint compound - MSDS", file: "documents/USG Sheetrock All purpose joint compound.pdf" },
     { name: "Diesel_Fuel - MSDS", file: "documents/Diesel_Fuel.pdf" },
     { name: "PRIMER G - MSDS", file: "documents/PRIMER G.pdf" },
-    { name: "MAPEI ULTRABOND ECO 571 2K comp. B SAFETY DATA SHEET - MSDS", file: "documents/MAPEI ULTRABOND ECO 571 2K comp. B SAFETY DATA SHEET.pdf" }
-    
+    { name: "MAPEI ULTRABOND ECO 571 2K comp. B SAFETY DATA SHEET - MSDS", file: "documents/MAPEI ULTRABOND ECO 571 2K comp. B SAFETY DATA SHEET.pdf" },
+    { name: "ZH1200 SILICONE SEALANT - MSDS", file: "documents/ZH1200 SILICONE SEALANT.pdf" },
+    { name: "JOTUN STEELMASTER 600WF - MSDS", file: "documents/JOTUN STEELMASTER 600WF.pdf" }
     
 ];
 
