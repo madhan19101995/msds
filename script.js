@@ -99,8 +99,8 @@ const documents = [
     { name: "PRIMER G - MSDS", file: "documents/PRIMER G.pdf" },
     { name: "MAPEI ULTRABOND ECO 571 2K comp. B SAFETY DATA SHEET - MSDS", file: "documents/MAPEI ULTRABOND ECO 571 2K comp. B SAFETY DATA SHEET.pdf" },
     { name: "ZH1200 SILICONE SEALANT - MSDS", file: "documents/ZH1200 SILICONE SEALANT.pdf" },
-    { name: "JOTUN STEELMASTER 600WF - MSDS", file: "documents/JOTUN STEELMASTER 600WF.pdf" }
-    
+    { name: "JOTUN STEELMASTER 600WF - MSDS", file: "documents/JOTUN STEELMASTER 600WF.pdf" },
+    { name: "GT Bond AR_MSDS - MSDS", file: "documents/GT Bond AR_MSDS.pdf" }
 ];
 
 documents.sort((a, b) => a.name.localeCompare(b.name));
