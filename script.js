@@ -101,7 +101,9 @@ const documents = [
     { name: "ZH1200 SILICONE SEALANT - MSDS", file: "documents/ZH1200 SILICONE SEALANT.pdf" },
     { name: "JOTUN STEELMASTER 600WF - MSDS", file: "documents/JOTUN STEELMASTER 600WF.pdf" },
     { name: "GT Bond AR_MSDS - MSDS", file: "documents/GT Bond AR_MSDS.pdf" },
-    { name: "GT Acryl PC60_MSDS", file: "documents/GT Acryl PC60_MSDS.pdf" }
+    { name: "GT Acryl PC60_MSDS", file: "documents/GT Acryl PC60_MSDS.pdf" },
+    { name: "CIKOinject-PUR1_MSDS", file: "documents/CIKOinject-PUR1.pdf" },
+    { name: "EPOXY GUARD PART B UNITED PAINTS_MSDS", file: "documents/EPOXY GUARD PART B UNITED PAINTS.pdf" }
 ];
 
 documents.sort((a, b) => a.name.localeCompare(b.name));
