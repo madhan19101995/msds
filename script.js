@@ -104,7 +104,9 @@ const documents = [
     { name: "GT Acryl PC60_MSDS", file: "documents/GT Acryl PC60_MSDS.pdf" },
     { name: "CIKOinject-PUR1_MSDS", file: "documents/CIKOinject-PUR1.pdf" },
     { name: "EPOXY GUARD PART B UNITED PAINTS_MSDS", file: "documents/EPOXY GUARD PART B UNITED PAINTS.pdf" },
-    { name: "Travaza threading oil_MSDS", file: "documents/Travaza threading oil.pdf" }
+    { name: "Travaza threading oil_MSDS", file: "documents/Travaza threading oil.pdf" },
+    { name: "68 Oryx Synthetic Enamel Gloss I_MSDS", file: "documents/68 Oryx Synthetic Enamel Gloss I.pdf" },
+     { name: "CRAYCOAT 32-17_MSDS", file: "documents/CRAYCOAT 32-17.pdf" }
 ];
 
 documents.sort((a, b) => a.name.localeCompare(b.name));
