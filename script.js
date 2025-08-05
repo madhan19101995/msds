@@ -108,7 +108,8 @@ const documents = [
     { name: "68 Oryx Synthetic Enamel Gloss I_MSDS", file: "documents/68 Oryx Synthetic Enamel Gloss I.pdf" },
     { name: "CRAYCOAT 32-17_MSDS", file: "documents/CRAYCOAT 32-17.pdf" },
     { name: "HI STICK SPRAY PAINT_MSDS", file: "documents/HI STICK SPRAY PAINT.pdf" },
-    { name: "PVC SOLVENTS_MSDS", file: "documents/PVC SOLVENTS.pdf" }
+    { name: "PVC SOLVENTS_MSDS", file: "documents/PVC SOLVENTS.pdf" },
+    { name: "DELTA WOOD BOND SDS_MSDS", file: "documents/DELTA WOOD BOND SDS.pdf" }
 ]; 
 
 documents.sort((a, b) => a.name.localeCompare(b.name));
