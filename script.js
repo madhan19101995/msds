@@ -110,7 +110,10 @@ const documents = [
     { name: "HI STICK SPRAY PAINT_MSDS", file: "documents/HI STICK SPRAY PAINT.pdf" },
     { name: "PVC SOLVENTS_MSDS", file: "documents/PVC SOLVENTS.pdf" },
     { name: "DELTA WOOD BOND SDS_MSDS", file: "documents/DELTA WOOD BOND SDS.pdf" },
-    { name: "ZenTreat C100 SDS_MSDS", file: "documents/ZenTreat C100 SDS.pdf" }
+    { name: "ZenTreat C100 SDS_MSDS", file: "documents/ZenTreat C100 SDS.pdf" },
+    { name: "ZenTreat S360 SDS_MSDS", file: "documents/ZenTreat S360 SDS.pdf" },
+    { name: "ZenTreat A300 SDS_MSDS", file: "documents/ZenTreat A300 SDS.pdf" },
+    { name: "ZenTreat S210 SDS_MSDS", file: "documents/ZenTreat S210 SDS.pdf" }
 ]; 
 
 documents.sort((a, b) => a.name.localeCompare(b.name));
