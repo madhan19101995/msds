@@ -113,7 +113,9 @@ const documents = [
     { name: "ZenTreat C100 SDS_MSDS", file: "documents/ZenTreat C100 SDS.pdf" },
     { name: "ZenTreat S360 SDS_MSDS", file: "documents/ZenTreat S360 SDS.pdf" },
     { name: "ZenTreat A300 SDS_MSDS", file: "documents/ZenTreat A300 SDS.pdf" },
-    { name: "ZenTreat S210 SDS_MSDS", file: "documents/ZenTreat S210 SDS.pdf" }
+    { name: "ZenTreat S210 SDS_MSDS", file: "documents/ZenTreat S210 SDS.pdf" },
+    { name: "HEMPEL MAESTRO MAT EMULSION SDS_MSDS", file: "documents/HEMPEL MAESTRO MAT EMULSION SDS.pdf" },
+    { name: "Chalk Powder SDS_MSDS", file: "documents/Chalk Powder SDS.pdf" }
 ]; 
 
 documents.sort((a, b) => a.name.localeCompare(b.name));
