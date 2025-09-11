@@ -116,7 +116,7 @@ const documents = [
     { name: "ZenTreat S210 SDS_MSDS", file: "documents/ZenTreat S210 SDS.pdf" },
     { name: "HEMPEL MAESTRO MAT EMULSION SDS_MSDS", file: "documents/HEMPEL MAESTRO MAT EMULSION SDS.pdf" },
     { name: "Chalk Powder SDS_MSDS", file: "documents/Chalk Powder SDS.pdf" },
-    { name: "DELTA MASTICE PER MARMI SDS_MSDS", file: "documents/DELTA MASTICE PER MARMI SDS.pdf" },
+    { name: "DELTA MASTICE PER MARMI-SDS_MSDS", file: "documents/DELTA MASTICE PER MARMI-SDS.pdf" },
     { name: "MARMOLIT B-CHEM SDS_MSDS", file: "documents/MARMOLIT B-CHEM SDS.pdf" }
 ]; 
 
