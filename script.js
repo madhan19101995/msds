@@ -118,6 +118,8 @@ const documents = [
     { name: "Chalk Powder SDS_MSDS", file: "documents/Chalk Powder SDS.pdf" },
     { name: "DELTA MASTICE PER MARMI-SDS_MSDS", file: "documents/DELTA MASTICE PER MARMI-SDS.pdf" },
     { name: "MARMOLIT B-CHEM SDS_MSDS", file: "documents/MARMOLIT B-CHEM SDS.pdf" },
+    { name: "Weber floor 4716_MSDS", file: "documents/MWeber floor 4716.pdf" },
+    { name: "Waxlit Cera_MSDS", file: "documents/Waxlit Cera.pdf" },
     { name: "CMHS CHEMICAL QUANTITY_MSDS", file: "documents/CMHS CHEMICAL QUANTITY.pdf" }
 ]; 
 
