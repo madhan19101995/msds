@@ -120,6 +120,10 @@ const documents = [
     { name: "MARMOLIT B-CHEM SDS_MSDS", file: "documents/MARMOLIT B-CHEM SDS.pdf" },
     { name: "Weber floor 4716_MSDS", file: "documents/MWeber floor 4716.pdf" },
     { name: "Waxlit Cera_MSDS", file: "documents/Waxlit Cera.pdf" },
+    { name: "SHEETROCK®️ Brand All Purpose Joint Compound, Advanced Formula, Ready-..._MSDS", file: "documents/SHEETROCK®️ Brand All Purpose Joint Compound, Advanced Formula, Ready-....pdf" },
+    { name: "All Purpose joint Compound SDS_MSDS", file: "documents/All Purpose joint Compound SDS.pdf" },
+    { name: "Contact Adhesives_MSDS", file: "documents/Contact Adhesives.pdf" },
+    { name: "Dura-Tile-Grout MSDS_MSDS", file: "documents/Dura-Tile-Grout MSDS.pdf" },
     { name: "CMHS CHEMICAL QUANTITY_MSDS", file: "documents/CMHS CHEMICAL QUANTITY.pdf" }
 ]; 
 
