@@ -117,7 +117,8 @@ const documents = [
     { name: "HEMPEL MAESTRO MAT EMULSION SDS_MSDS", file: "documents/HEMPEL MAESTRO MAT EMULSION SDS.pdf" },
     { name: "Chalk Powder SDS_MSDS", file: "documents/Chalk Powder SDS.pdf" },
     { name: "DELTA MASTICE PER MARMI-SDS_MSDS", file: "documents/DELTA MASTICE PER MARMI-SDS.pdf" },
-    { name: "MARMOLIT B-CHEM SDS_MSDS", file: "documents/MARMOLIT B-CHEM SDS.pdf" }
+    { name: "MARMOLIT B-CHEM SDS_MSDS", file: "documents/MARMOLIT B-CHEM SDS.pdf" },
+    { name: "CMHS CHEMICAL QUANTITY_MSDS", file: "documents/CMHS CHEMICAL QUANTITY.pdf" }
 ]; 
 
 documents.sort((a, b) => a.name.localeCompare(b.name));
