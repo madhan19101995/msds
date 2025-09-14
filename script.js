@@ -124,6 +124,7 @@ const documents = [
     { name: "All Purpose joint Compound SDS_MSDS", file: "documents/All Purpose joint Compound SDS.pdf" },
     { name: "Contact Adhesives_MSDS", file: "documents/Contact Adhesives.pdf" },
     { name: "Dura-Tile-Grout MSDS_MSDS", file: "documents/Dura-Tile-Grout MSDS.pdf" },
+    { name: "Marmolit-Solid-Straw-SDS_MSDS", file: "documents/Marmolit-Solid-Straw-SDS.pdf" },
     { name: "CMHS CHEMICAL QUANTITY_MSDS", file: "documents/CMHS CHEMICAL QUANTITY.pdf" }
 ]; 
 
