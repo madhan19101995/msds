@@ -126,6 +126,9 @@ const documents = [
     { name: "Dura-Tile-Grout MSDS_MSDS", file: "documents/Dura-Tile-Grout MSDS.pdf" },
     { name: "Marmolit-Solid-Straw-SDS_MSDS", file: "documents/Marmolit-Solid-Straw-SDS.pdf" },
     { name: "Paint-thinner_MSDS", file: "documents/Paint-thinner.pdf" },
+    { name: "MonniChem EPS - MSDS_MSDS", file: "documents/MonniChem EPS - MSDS.pdf" },
+    { name: "MonniFinish EF - MSDS_MSDS", file: "documents/MonniFinish EF - MSDS.pdf" },
+    { name: "MONNIPRIME EF - MSDS_MSDS", file: "documents/MONNIPRIME EF - MSDS.pdf" },
     { name: "CMHS CHEMICAL INVENTORY 2nd Week SEP 2025_MSDS", file: "documents/CMHS CHEMICAL INVENTORY 2nd Week SEP 2025.pdf" }
 ]; 
 
