@@ -125,7 +125,7 @@ const documents = [
     { name: "Contact Adhesives_MSDS", file: "documents/Contact Adhesives.pdf" },
     { name: "Dura-Tile-Grout MSDS_MSDS", file: "documents/Dura-Tile-Grout MSDS.pdf" },
     { name: "Marmolit-Solid-Straw-SDS_MSDS", file: "documents/Marmolit-Solid-Straw-SDS.pdf" },
-    { name: "CMHS CHEMICAL QUANTITY_MSDS", file: "documents/CMHS CHEMICAL QUANTITY.pdf" }
+    { name: "CMHS CHEMICAL INVENTORY 2nd Week SEP 2025_MSDS", file: "documents/CMHS CHEMICAL INVENTORY 2nd Week SEP 2025.pdf" }
 ]; 
 
 documents.sort((a, b) => a.name.localeCompare(b.name));
