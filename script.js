@@ -129,6 +129,7 @@ const documents = [
     { name: "MonniChem EPS - MSDS_MSDS", file: "documents/MonniChem EPS - MSDS.pdf" },
     { name: "MonniFinish EF - MSDS_MSDS", file: "documents/MonniFinish EF - MSDS.pdf" },
     { name: "MONNIPRIME EF - MSDS_MSDS", file: "documents/MONNIPRIME EF - MSDS.pdf" },
+    { name: "EBM TH600 Epoxy Thinner_MSDS", file: "documents/MEBM TH600 Epoxy Thinner.pdf" },
     { name: "CMHS CHEMICAL INVENTORY 2nd Week SEP 2025_MSDS", file: "documents/CMHS CHEMICAL INVENTORY 2nd Week SEP 2025.pdf" }
 ]; 
 
