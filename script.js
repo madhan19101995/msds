@@ -132,6 +132,8 @@ const documents = [
     { name: "EBM TH600 Epoxy Thinner_MSDS", file: "documents/EBM TH600 Epoxy Thinner.pdf" },
     { name: "Jotun Thinner No. 10_MSDS", file: "documents/Jotun Thinner No. 10.pdf" },
     { name: "JOTUN Hardtop XP Comp B_MSDS", file: "documents/JOTUN Hardtop XP Comp B.pdf" },
+    { name: "JOTUN Penguard Universal Comp A_MSDS", file: "documents/JOTUN Penguard Universal Comp A.pdf" },
+    { name: "JOTUN Penguard Universal Comp B_MSDS", file: "documents/JOTUN Penguard Universal Comp B.pdf" },
     { name: "CMHS CHEMICAL INVENTORY 2nd Week SEP 2025_MSDS", file: "documents/CMHS CHEMICAL INVENTORY 2nd Week SEP 2025.pdf" }
 ]; 
 
