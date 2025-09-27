@@ -130,10 +130,8 @@ const documents = [
     { name: "MonniFinish EF - MSDS_MSDS", file: "documents/MonniFinish EF - MSDS.pdf" },
     { name: "MONNIPRIME EF - MSDS_MSDS", file: "documents/MONNIPRIME EF - MSDS.pdf" },
     { name: "EBM TH600 Epoxy Thinner_MSDS", file: "documents/EBM TH600 Epoxy Thinner.pdf" },
-    { name: "Hardtop XP Comp B_MSDS", file: "documents/Hardtop XP Comp B.pdf" },
-    { name: "Penguard Universal Comp A_MSDS", file: "documents/Penguard Universal Comp A.pdf" },
-    { name: "Penguard Universal Comp B_MSDS", file: "documents/Penguard Universal Comp B.pdf" },
     { name: "Jotun Thinner No. 10_MSDS", file: "documents/Jotun Thinner No. 10.pdf" },
+    { name: "Hardtop XP Comp B_MSDS", file: "documents/Hardtop XP Comp B.pdf" },
     { name: "CMHS CHEMICAL INVENTORY 2nd Week SEP 2025_MSDS", file: "documents/CMHS CHEMICAL INVENTORY 2nd Week SEP 2025.pdf" }
 ]; 
 
