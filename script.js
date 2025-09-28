@@ -134,6 +134,7 @@ const documents = [
     { name: "JOTUN Hardtop XP Comp B_MSDS", file: "documents/JOTUN Hardtop XP Comp B.pdf" },
     { name: "JOTUN Penguard Universal Comp A_MSDS", file: "documents/JOTUN Penguard Universal Comp A.pdf" },
     { name: "JOTUN Penguard Universal Comp B_MSDS", file: "documents/JOTUN Penguard Universal Comp B.pdf" },
+    { name: "Coolant sds_MSDS", file: "documents/Coolant sds.pdf" }
     { name: "CMHS CHEMICAL INVENTORY 2nd Week SEP 2025_MSDS", file: "documents/CMHS CHEMICAL INVENTORY 2nd Week SEP 2025.pdf" }
 ]; 
 
