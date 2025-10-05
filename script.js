@@ -137,7 +137,7 @@ const documents = [
     { name: "Coolant sds_MSDS", file: "documents/Coolant sds.pdf" },
     { name: "Jotun-Thinner-No.17-SDS_MSDS", file: "documents/Jotun-Thinner-No.17-SDS.pdf" },
     { name: "Leader Thinner SDs_MSDS", file: "documents/Leader Thinner SDs.pdf" },
-    { name: "CMHS CHEMICAL INVENTORY 3rd Week SEP 2025_MSDS", file: "documents/CMHS CHEMICAL INVENTORY 3rd Week SEP 2025.pdf" }
+    { name: "CMHS CHEMICAL INVENTORY 1st Week OCT 2025_MSDS", file: "documents/CMHS CHEMICAL INVENTORY 1st Week OCT 2025.pdf" }
 ]; 
 
 documents.sort((a, b) => a.name.localeCompare(b.name));
