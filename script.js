@@ -137,6 +137,7 @@ const documents = [
     { name: "Coolant sds_MSDS", file: "documents/Coolant sds.pdf" },
     { name: "Jotun-Thinner-No.17-SDS_MSDS", file: "documents/Jotun-Thinner-No.17-SDS.pdf" },
     { name: "Leader Thinner SDs_MSDS", file: "documents/Leader Thinner SDs.pdf" },
+    { name: "QATOL-SUPER-POWER-DIESEL-ENGINE-OIL-SAE-20W50-API-CI-4SL_MSDS", file: "documents/QATOL-SUPER-POWER-DIESEL-ENGINE-OIL-SAE-20W50-API-CI-4SL.pdf" },
     { name: "CMHS CHEMICAL INVENTORY 1st Week OCT 2025_MSDS", file: "documents/CMHS CHEMICAL INVENTORY 1st Week OCT 2025.pdf" }
 ]; 
 
