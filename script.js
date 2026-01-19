@@ -140,7 +140,7 @@ const documents = [
     { name: "QATOL-SUPER-POWER-DIESEL-ENGINE-OIL-SAE-20W50-API-CI-4SL_MSDS", file: "documents/QATOL-SUPER-POWER-DIESEL-ENGINE-OIL-SAE-20W50-API-CI-4SL.pdf" },
     { name: "Eurocol 233-SDS_MSDS", file: "documents/Eurocol 233-SDS.pdf" },
     { name: "WD40_MSDS", file: "documents/WD40.pdf" },
-    { name: "Chemical Storage Inventory November 27 2025_MSDS", file: "documents/Chemical Storage Inventory November 27 2025.pdf" }
+    { name: "Chemical Storage Inventory January 08 2026_MSDS", file: "documents/Chemical Storage Inventory January 08 2026.pdf" }
 ]; 
 
 documents.sort((a, b) => a.name.localeCompare(b.name));
