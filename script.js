@@ -141,6 +141,7 @@ const documents = [
     { name: "Eurocol 233-SDS_MSDS", file: "documents/Eurocol 233-SDS.pdf" },
     { name: "WD40_MSDS", file: "documents/WD40.pdf" },
     { name: "National Shield Topcoat_MSDS", file: "documents/National Shield Topcoat.pdf" },
+    { name: "Sethard S_MSDS", file: "documents/Sethard S.pdf" },
     { name: "Chemical Storage Inventory January 08 2026_MSDS", file: "documents/Chemical Storage Inventory January 08 2026.pdf" }
 ]; 
 
