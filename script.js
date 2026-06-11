@@ -142,6 +142,7 @@ const documents = [
     { name: "WD40_MSDS", file: "documents/WD40.pdf" },
     { name: "National Shield Topcoat_MSDS", file: "documents/National Shield Topcoat.pdf" },
     { name: "Sethard S_MSDS", file: "documents/Sethard S.pdf" },
+    { name: "FEVICOL_SH_MSDS_MSDS", file: "documents/FEVICOL_SH_MSDS.pdf" },
     { name: "Chemical Storage Inventory 02 April 2026_MSDS", file: "documents/Chemical Storage Inventory 02 April 2026.pdf" }
 ]; 
 
