@@ -143,7 +143,7 @@ const documents = [
     { name: "National Shield Topcoat_MSDS", file: "documents/National Shield Topcoat.pdf" },
     { name: "Sethard S_MSDS", file: "documents/Sethard S.pdf" },
     { name: "FEVICOL_SH_MSDS_MSDS", file: "documents/FEVICOL_SH_MSDS.pdf" },
-    { name: "Chemical Storage Inventory 21 May 2026_MSDS", file: "documents/Chemical Storage Inventory 21 May 2026.pdf" }
+    { name: "Chemical Storage Inventory 21 May 2026_MSDS", file: "documents/Chemical Storage Inventory 21 May 2026.pdf" },
 ]; 
 
 documents.sort((a, b) => a.name.localeCompare(b.name));
